@@ -74,7 +74,7 @@ text-decoration:none;
 #pocetna{
 	text-align:center;
 	color: #ffffff;
-	background:url('D:/Danilo/htmlSkola/img/pozadine/nebo.jpg');
+	background:url('nebo.jpg');
 		background-size: cover; 
 		background-attachment: fixed;
 }
@@ -93,14 +93,14 @@ text-decoration:none;
 #usluge {
 	text-align:center;
 	color: #ffffff;
-	background:url('D:/Danilo/htmlSkola/img/pozadine/pozadina2.jpg');
+	background:url('pozadina2.jpg');
 		background-size: cover; 
 		background-attachment: fixed;
 }
 #karijera {
 	text-align:center;
 	color: #ffffff;
-	background:url('D:/Danilo/htmlSkola/img/pozadine/pozadina3.jpg');
+	background:url('pozadina3.jpg');
 		background-size: cover; 
 		background-attachment: fixed;
 }
